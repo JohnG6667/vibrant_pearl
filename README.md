@@ -1,6 +1,6 @@
 # <span style="color:#1b3d60">Vibrant Pearl</span> - Página web de bordado de cuadros personalizados
 
-<img src="logo.png" alt="Vibrant Pearl Logo" width="150" height="150" align="right">
+<img src="logo_vibrant.jpg" alt="Vibrant Pearl Logo" width="150" height="150" align="right">
 
 Este repositorio contiene el código fuente de **Vibrant Pearl**, una página web dedicada al bordado de cuadros en lienzo personalizados. El proyecto es desarrollado por **ICARUS SOFT** utilizando el framework **Laravel** para garantizar un desarrollo eficiente y robusto.
 
